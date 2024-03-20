@@ -9,7 +9,11 @@ module.exports = {
     extend: {
       fontFamily: {
         primary: ["Alata", "sans-serif"],
+        secondary: ['Poppins', 'sans-serif'],
       },
+      colors : {
+        primary_color : "#2460A2"
+      }
     },
   },
   plugins: [],
